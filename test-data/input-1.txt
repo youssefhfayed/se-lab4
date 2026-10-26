@@ -1,0 +1,3 @@
+# T1: Fire one torpedo from a stocked primary store
+GT4500,1,0,1,0
+TORPEDO,SINGLE
