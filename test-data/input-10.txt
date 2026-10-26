@@ -1,0 +1,3 @@
+# T10: ALL succeeds when only the secondary store has a torpedo
+GT4500,0,0,1,0
+TORPEDO,ALL

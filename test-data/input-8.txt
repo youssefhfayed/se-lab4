@@ -1,0 +1,4 @@
+# T8: Fail after the only primary torpedo has been consumed
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
