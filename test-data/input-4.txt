@@ -1,0 +1,4 @@
+# T4: A primary failure is reported; the next command uses the secondary store
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

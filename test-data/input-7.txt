@@ -1,0 +1,4 @@
+# T7: Continue using primary when secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
